@@ -1,0 +1,10 @@
+{
+  "name": "crud-produtos-react",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.14.2"
+  }
+}
